@@ -26,8 +26,8 @@ namespace Exec_List
 			};
 			List<Product> product3 = new List<Product>
 			{
-				new Product{Name="Allen", Price=25, Amount = 2},
-				new Product{Name="Allen", Price=10, Amount = 1},
+				new Product{Name="西瓜", Price=25, Amount = 2},
+				new Product{Name="梨子", Price=10, Amount = 1},
 
 			};
 		}
